@@ -7,7 +7,7 @@
 I like understanding intelligent systems from first principles —  
 then making them work a little better.
 
-[Email](mailto:ryexawl@gmail.com) · [Explore my repositories →](https://github.com/ethannwang?tab=repositories)
+[Email](mailto:ryexawl@gmail.com) · [LinkedIn](https://www.linkedin.com/in/xueyi-wang-2b8309374/) · [Explore my repositories →](https://github.com/ethannwang?tab=repositories)
 
 </div>
 
@@ -34,7 +34,3 @@ Studying Artificial Intelligence at **MBZUAI**. I am broadly interested in **lar
 </p>
 
 <br>
-
-
-
-<!-- Replace every USERNAME with your GitHub username, then rename this file to README.md. -->

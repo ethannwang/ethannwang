@@ -2,7 +2,7 @@
 
 # Hi, I'm Ethan Wang.
 
-### Systems · Machine Learning · Large Language Models · AI Agents 
+### Systems · Machine Learning · LLMs · Agents 
 
 I like understanding intelligent systems from first principles —  
 then making them work a little better.
